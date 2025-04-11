@@ -16,6 +16,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: top right, bottom left;
 	background-size: auto;
+	background-color: $VeryLightGrayishBlue;
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -28,7 +29,6 @@ body {
 	align-items: center;
 	justify-content: center;
 	max-width: 1100px;
-	background-color: white;
 
 	h1 {
 		font-size: 28px;
@@ -95,6 +95,7 @@ body {
 			align-items: center;
 			justify-content: center;
 			gap: 20px;
+			background-color: $VeryLightGrayishBlue;
 
 			h4 {
 				color: $GrayishBlue;
